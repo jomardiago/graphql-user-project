@@ -14,6 +14,7 @@ The project is running a fake full rest API using [json-server](https://github.c
 run 2 scripts using npm to successfully run the project.
 
 **Step 2:** First we're going to run the main project by typing `npm run dev`. This will run our server.js using nodemon.
+
 **Step 3:** Now we're going to run the fake rest API by typing `npm run json:server` on another tab of your terminal or 
 another terminal.
 
