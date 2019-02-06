@@ -1,5 +1,5 @@
 # graphql-user-project
-A small GraphQL project that is using GraphQL as a query language. This project will expand to using ReactJS, once ReactJS is fully integrated, you can still use GraphiQL tooling to experiment on the project.
+A small GraphQL project that is using GraphQL as a query language and using GraphiQL Tooling to test all the Queries and Mutations of the project.
 
 This project is intended as sort of a note, whether syntactically so that author can check how to for example create a 
 new GraphQL Query or Mutation.
@@ -18,7 +18,7 @@ run 2 scripts using npm to successfully run the project.
 **Step 3:** Now we're going to run the fake rest API by typing `npm run json:server` on another tab of your terminal or 
 another terminal.
 
-The project will run **localhost:4000** while the server will run on **localhost:3000**
+The project will run on **localhost:4000** while the server will run on **localhost:3000**
 
 Finally, go to your browser of choice and type **localhost:4000/graphql**. This will open the GraphiQL tool and you're on! Get to 
 experimenting by adding new resources in our db.json file and adding new Queries and Mutations to your schema.js file.
