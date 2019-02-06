@@ -1,5 +1,5 @@
 # graphql-user-project
-A small react project that is using GraphQL as a query language.
+A small GraphQL project that is using GraphQL as a query language. This project will expand to using ReactJS, once ReactJS is fully integrated, you can still use GraphiQL tooling to experiment on the project.
 
 This project is intended as sort of a note, whether syntactically so that author can check how to for example create a 
 new GraphQL Query or Mutation.
